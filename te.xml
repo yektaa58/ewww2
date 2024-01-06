@@ -1,6 +1,6 @@
 CASE
     WHEN condition1 THEN result12
-    WHEN condition2 THEN result2
+    WHEN condition2 THEN result255
     WHEN conditionN THEN resultN
     ELSE result
     NOTHING
