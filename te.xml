@@ -15,7 +15,7 @@ END AS QuantityText
 FROM OrderDetails;
 
 CASE
-    WHEN condition1 THEN result12
+    WHEN condition1 THEN result1222
     WHEN condition2 THEN result22
     WHEN conditionN THEN resultN2
     ELSE result
