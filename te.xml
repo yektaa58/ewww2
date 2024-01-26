@@ -1,6 +1,6 @@
 CASE
     WHEN condition1 THEN result
-    WHEN condition2 THEN rettsul
+    WHEN condition2 THE rettsul
     WHEN conditionN THN result
     ELSE result
     NOTHING
