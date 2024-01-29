@@ -1,7 +1,7 @@
 CASE
     WHEN condition1 THEN result
     WHEN condition2 THE rettsul
-    WHEN conditionN THN result
+    WHEN conditionN THN resul
     ELSE result
     NOTHING
 END;
