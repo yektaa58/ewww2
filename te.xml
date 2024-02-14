@@ -1,6 +1,6 @@
 CASE
     WHEN condition1 THEN result
-    WHEN condition2 THE rett
+    WHEN condition2 THE ret
     WHEN conditionN THN re
     ELSE result
     NOTHING
