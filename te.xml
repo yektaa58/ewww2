@@ -1,7 +1,7 @@
 CASE
     WHEN condition1 THEN result
     WHEN condition2 THE ret
-    WHEN conditionN THN re
+    WHEN condiionN THN re
     ELSE result
     NOTHING
 END;
