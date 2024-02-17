@@ -1,5 +1,5 @@
 CASE
-    WHEN condition1 THEN result
+    WHEN conditn1 THEN result
     WHEN condion2 THE ret
     WHEN condiionN THN re
     ELSE result
