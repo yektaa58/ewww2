@@ -1,7 +1,7 @@
 CASE
     WHEN codn1 TEN result
     WHEN conio THE ret
-    WHEN condiionN THN re
+    WHEN condinN THN re
     ELSE result
     NOTHING
 END;
