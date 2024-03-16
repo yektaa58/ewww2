@@ -9,7 +9,7 @@ END;
 SELECT OrderID, Quantity,
 CASE
     WHEN Quantity > 30 THN 'The qany is grer than 30'
-    WHEN Quantity = 30 THEN 'The quanttiy is 323
+    WHEN Quantity = 30 THEN 'The quantiy is 323
     ELSE 'The quantity is under 320
 END AS QuantityText
 FROM OrderDetails;
